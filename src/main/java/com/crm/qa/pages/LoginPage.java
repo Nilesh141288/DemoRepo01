@@ -48,5 +48,9 @@ public class LoginPage extends TestBase {
 
 		return new HomePage();
 	}
+	
+	public void loginPagedemoForGit() {
+		System.out.println("This method was creaded just to see on the GIT while update..");
+	}
 
 }
